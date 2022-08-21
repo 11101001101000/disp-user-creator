@@ -1,6 +1,7 @@
 import os
 import random
 userNum = str(random.randrange(1,2000))
-print("adduser user" + userNum)
-os.system("sudo adduser user" + userNum)
-os.system("su user" + userNum)
+print("adduser disp" + userNum)
+os.system("sudo adduser disp" + userNum)
+os.system("su disp" + userNum)
+os.system("sudo userdel disp" + userNum)
