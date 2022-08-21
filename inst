@@ -1,2 +1,3 @@
 #!/bin/sh
 sudo cp ./disp /usr/bin/disp
+sudo cp ./dispUserCreator.py /usr/bin/dispUserCreator.py
