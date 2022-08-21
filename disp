@@ -1,2 +1,2 @@
 #!/bin/sh
-python3 ./dispUserCreator.py
+python3 /usr/bin/dispUserCreator.py
